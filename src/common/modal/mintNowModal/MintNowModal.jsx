@@ -14,7 +14,7 @@ const MintNowModal = () => {
         <div className="mint_modal_box">
           <div className="mint_modal_content">
             <div className="modal_header">
-              <h2>Collect YOUR NFT before end</h2>
+              <h2>Collect YOUR NFT before before there all gone</h2>
               <button onClick={() => mintModalHandle()}>
                 <FiX />
               </button>
@@ -33,7 +33,7 @@ const MintNowModal = () => {
                   </li>
                   <li>
                     <h5>Price</h5>
-                    <h5>0.15 ETH</h5>
+                    <h5>10 KDA</h5>
                   </li>
                   <li>
                     <h5>Quantity</h5>
@@ -54,7 +54,7 @@ const MintNowModal = () => {
                       <button onClick={() => setCount(count + 1)}>+</button>
                     </div>
                     <h5>
-                      <span>0.30</span> ETH
+                      <span>10</span> KDA
                     </h5>
                   </li>
                 </ul>

@@ -92,7 +92,7 @@ const Banner = () => {
                 </div>
               </div>
               <div className="banner-bottom-text text-uppercase">
-                Public Mint 0.09 Eth + Gas Floor Price 2.08 Eth
+                Public Mint 10 KDA + Gas Floor Price 20.08 KDA
               </div>
             </div>
           </div>

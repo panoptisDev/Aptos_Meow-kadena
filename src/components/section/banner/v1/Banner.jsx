@@ -17,7 +17,8 @@ const Banner = () => {
         <div className="row">
           <div className="col-lg-6">
             <div className="bithu_v1_baner_left">
-              <h2>Atpos Meow</h2>
+              <h2>KADENA</h2>
+              <h2>Fishy Fishes</h2>
               <h3>
                 <span className="count">
                   <Counter end={5555} duration={5555} />
@@ -34,7 +35,7 @@ const Banner = () => {
                 </Button>
               </div>
               <div className="coin-info">
-                <span>Max 2 NFTs per wallet . Price 10 APTOS + gas</span>
+                <span>Max 2 NFTs per wallet . Price 10 KADENA + gas</span>
                 <span>
                   MINT IS LIVE{" "}
                   <span className="highlighted">UNTIL 25 Oct 04:00H</span>
@@ -46,7 +47,7 @@ const Banner = () => {
           <div className="col-lg-6">
             <div className="bithu_v1_baner_right">
               <div className="bithu_v1_baner_right_img_sect">
-                {/* <div className="mint_live_circle_sect">
+                {<div className="mint_live_circle_sect">
                   <div className="mint_live_circle">
                     <span>
                       <img src={mintLiveDownArrow} alt="" />
@@ -55,7 +56,7 @@ const Banner = () => {
                       <img src={mintLiveText} alt="" />
                     </span>
                   </div>
-                </div> */}
+                </div> }
                 <div className="bithu_v1_baner_right_img_bg">
                   <img src={homeImageBG} alt="" />
                 </div>
